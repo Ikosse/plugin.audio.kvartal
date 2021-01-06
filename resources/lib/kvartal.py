@@ -9,14 +9,6 @@ def get_page_soup(url):
     return BeautifulSoup(page.text, "html.parser")
 
 
-def unique(list_):
-    unique_list = []
-    for element in list_:
-        if element not in unique_list:
-            unique_list.append(element)
-    return unique_list
-
-
 class Kvartal(object):
 
     def __init__(self):
