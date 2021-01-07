@@ -10,7 +10,7 @@
         <provides>video audio</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Swedish online newspaper publishing podcasts and articles with a focus on public affair journalism.</summary>
+        <summary lang="en">Swedish online newspaper publishing podcasts and articles with a focus on public affairs journalism.</summary>
         <summary lang="sv-SE">Svensk nättidskrift som publicerar poddar och texter med samhällsjournalistisk inriktning.</summary>
         <license>GNU General Public License, v2</license>
         <platform>all</platform>
