@@ -1,5 +1,5 @@
 # Kvartal
-Kodi add-on for listening to podcasts published by Kvartal: https://kvartal.se/.
+Kodi add-on for listening to podcasts published by Kvartal: https://kvartal.se.
 
 ## Screenshots
 <table>
