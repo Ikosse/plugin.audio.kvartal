@@ -1,5 +1,20 @@
-# Kvartal-kodi
-Unofficial kodi addon for the online newspaper Kvartal: https://kvartal.se/
+# Kvartal
+Kodi add-on for listening to podcasts published by Kvartal: https://kvartal.se/.
 
-# Installation
-Download repository as a zip-file and follow installation instructions on https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files.
+## Screenshots
+<table>
+  <tr>
+    <td><img src="resources/screenshot-01.jpg" width=270></td>
+    <td><img src="resources/screenshot-02.jpg" width=270></td>
+    <td><img src="resources/screenshot-03.jpg" width=270></td>
+    <td><img src="resources/screenshot-04.jpg" width=270></td>
+  </tr>
+ </table>
+
+## Disclaimer
+This add-on is unofficial and its author has no affiliation with https://kvartal.se.
+
+## Contact
+email: andrelofgren@hotmail.co.uk
+
+
